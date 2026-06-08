@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Aryan%20Sharma&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20Engineer%20%7C%20AI%20Researcher&descAlignY=60&descColor=a0aec0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:87CEEB,50:00BFFF,100:1E90FF&height=200&section=header&text=Aryan%20Sharma&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Data%20Science%20%7C%20ML%20Engineer%20%7C%20AI%20Researcher&descAlignY=62&descColor=f0f8ff&descSize=20" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;NLP+%7C+Anomaly+Detection+%7C+Predictive+Analytics;Published+Researcher+%40+ICAIMLBDE+2026+%F0%9F%93%84;Python+%7C+Scikit-learn+%7C+Power+BI+%7C+Tableau;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
