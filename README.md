@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Aryan%20Sharma&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=60&descColor=a0aec0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Aryan%20Sharma&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20Engineer%20%7C%20AI%20Researcher&descAlignY=60&descColor=a0aec0" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works+%F0%9F%A4%96;NLP+%7C+Anomaly+Detection+%7C+ML+Research;Published+Researcher+%40+ICAIMLBDE+2026;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;NLP+%7C+Anomaly+Detection+%7C+Predictive+Analytics;Published+Researcher+%40+ICAIMLBDE+2026+%F0%9F%93%84;Python+%7C+Scikit-learn+%7C+Power+BI+%7C+Tableau;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,91 +10,99 @@
 
 ## 🙋‍♂️ About Me
 
-🎓 **B.Tech CSE** — Gautam Buddha University, Greater Noida (2022–2026)  
-🔬 **Research** — Published at ICAIMLBDE 2026 (Anomaly Detection in Unlabeled Data)  
-🧠 **Interests** — NLP, Anomaly Detection, Predictive Modeling, Computer Vision  
-💼 **Experience** — Data Science Intern @ Zidio Development (Mar–Jun 2025)  
+🎓 **Integrated B.Tech + M.Tech (CSE — Data Science)** @ Gautam Buddha University, Greater Noida (2021–2026)  
+🔬 **Published Researcher** — ICAIMLBDE 2026, Hampi, India  
+💼 **Data Science & Analytics Intern** @ Zidio Development (Mar–Jun 2025)  
+🧠 **Interests** — Machine Learning, NLP, Anomaly Detection, Predictive Analytics  
+☁️ **Cloud** — AWS, Microsoft Azure, Google Cloud Platform (Basics)  
+📧 **Email** — iamaryansharma126@gmail.com  
 📍 **Location** — Greater Noida, India  
-📧 **Email** — aryansharma49264@gmail.com  
-⚡ **Fun fact** — I turn messy data into clean insights and love debugging at 2AM
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI / ML / Data Science
+### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AD3?style=for-the-badge&logo=xgboost&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 📊 Data Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🌐 Web & Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Tools & Systems
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 🤖 Data Science & ML
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 📊 Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🔬 Research Publication
 
-> 📄 **"Anomaly Detection in Unlabeled Data Using Unsupervised Learning"**  
-> 🏛️ Published at **ICAIMLBDE 2026** — International Conference on AI, ML & Big Data Engineering  
-> 🔍 Focus: Unsupervised anomaly detection using clustering & statistical methods on real-world datasets
+> 📄 **"Hybrid Anomaly Detection in Financial Transactions Using Isolation Forest and CatBoost with Explainable AI"**  
+> 🏛️ **ICAIMLBDE 2026** — International Conference on Artificial Intelligence, Machine Learning and Big Data Engineering  
+> 📍 Presented at **Hampi, India**
 
 ---
 
 ## 💼 Experience
 
-| Role | Company | Duration |
-|------|---------|----------|
-| 🧪 Data Science Intern | Zidio Development | Mar 2025 – Jun 2025 |
+### 🧪 Zidio Development — Data Science & Analytics Intern
+**Mar 2025 – Jun 2025 | Remote**
+
+- 🔹 Worked on real-world data analytics tasks — preprocessing, EDA & predictive modeling
+- 🔹 Used Python, Pandas, NumPy, Scikit-learn for structured datasets & classification analytics
+- 🔹 Built dashboards & reports using **Power BI** and **Tableau** for business decision-making
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔍 **Anomaly Detection** | Unsupervised detection of anomalies in unlabeled datasets | Python, Scikit-learn, Isolation Forest |
-| 📉 **Customer Churn Prediction** | Predict churn with 91%+ accuracy using ensemble models | XGBoost, CatBoost, Pandas |
-| 📈 **Sales Forecasting** | Time-series forecasting for retail sales data | LSTM, Prophet, Plotly |
-| 📰 **Fake News Detector** | NLP-based classifier for misinformation detection | NLTK, TF-IDF, Logistic Regression |
+### 📉 Customer Churn Prediction System
+`Python` `Scikit-learn` `Power BI`
+- Built end-to-end churn prediction pipeline using supervised ML algorithms
+- Performed feature engineering & customer behaviour analysis for retention patterns
+- Created interactive **Power BI dashboards** for churn visualization & reporting
+
+### 📈 Sales Forecasting & Revenue Analysis
+`Python` `Tableau`
+- Built time-series forecasting model for sales prediction & revenue trend analysis
+- Developed **Tableau dashboards** for KPI monitoring & business analytics
+- Improved reporting efficiency through data-driven insights
+
+### 📰 Fake News Detection System
+`Python` `NLP` `Scikit-learn`
+- Built NLP-based fake news classifier using **TF-IDF vectorization** & text preprocessing
+- Applied ML algorithms for misinformation detection & content authenticity analysis
 
 ---
 
 ## 🏅 Certifications
 
-| Certificate | Platform |
-|-------------|----------|
-| Machine Learning Specialization | Coursera |
-| Python for Data Science | IBM / Coursera |
-| Deep Learning Fundamentals | Various |
-| Data Visualization with Power BI | Microsoft |
+| Certificate | Issuer |
+|------------|--------|
+| 📊 Data Science & Analytics Training | Zidio Development |
+| 🏆 Certificate of Presentation | ICAIMLBDE 2026 |
+| 🐍 Python for Data Science | — |
+| 🗄️ SQL for Data Science | — |
+| 🤖 Machine Learning Basics | — |
 
 ---
 
@@ -140,11 +148,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamaryansharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryansharma)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/aryansharma003)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Aryan_Sharma003)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryansharma49264@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamaryansharma)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamaryansharma126@gmail.com)
 
 </div>
 
