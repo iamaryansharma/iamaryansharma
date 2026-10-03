@@ -96,7 +96,6 @@
 `Python` `NLP` `Scikit-learn`
 - Built NLP-based fake news classifier using **TF-IDF vectorization** & text preprocessing
 - Applied ML algorithms for misinformation detection & content authenticity analysis
-
 ---
 
 ## 🏅 Certifications
